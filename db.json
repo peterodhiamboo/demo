@@ -1,14 +1,49 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "USER_DATA" : {
+    "-L4zEHQXoZFgWe_cBGeP" : {
+      "Content" : "Magolorilo En Logo Mar Mercedes",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/workdata-3071f.appspot.com/o/MAPICHA%2Fcropped334509798.jpg?alt=media&token=7b9fc473-e0eb-4c79-adb0-63887bcede17",
+      "Title" : "Logorilo"
+    },
+    "-L5DFcAlKE442wDW2KQH" : {
+      "Content" : "Odhiambo Chalo Nade",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/workdata-3071f.appspot.com/o/MAPICHA%2Fcropped1444754569.jpg?alt=media&token=bd23ce31-6b35-447f-8710-61d4e95e008e",
+      "Title" : "Odhiambla"
+    },
+    "-L5DFnFGvAnUl5B2WbKF" : {
+      "Content" : "Idhi Nade",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/workdata-3071f.appspot.com/o/MAPICHA%2Fcropped-136718774.jpg?alt=media&token=5cbdeb18-ed7d-49c7-8481-fd271d1a2839",
+      "Title" : "Soildier"
+    },
+    "-L5DG_nEnpX6jKPdCf1w" : {
+      "Content" : "Thank You Lord For Bringin Me This Far",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/workdata-3071f.appspot.com/o/MAPICHA%2Fcropped-1098669848.jpg?alt=media&token=7e0dac7a-e19e-4104-afc0-24e8fbda2aa8",
+      "Title" : "A New Year,"
+    },
+    "-L5DGx4AADbP0TZIVV3w" : {
+      "Content" : "Nembo Ya Adidas",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/workdata-3071f.appspot.com/o/MAPICHA%2Fcropped-636279664.jpg?alt=media&token=f0d1dfb2-af7a-4f9a-949e-0efc1ddc5254",
+      "Title" : "Logi"
+    },
+    "-L5DHzJPINoMO3J5fDQr" : {
+      "Content" : "America, The Most Powerful Country In The Globe",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/workdata-3071f.appspot.com/o/MAPICHA%2Fcropped-1397392367.jpg?alt=media&token=199c001b-1a03-41e1-b158-170111e6313d",
+      "Title" : "USA"
+    },
+    "-L5DIEBwBc1hiDqb0IK5" : {
+      "Content" : "Ni Usiku Wa Manane",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/workdata-3071f.appspot.com/o/MAPICHA%2Fcropped-270203325.jpg?alt=media&token=553c0578-a7d6-42d3-ac75-a5494141ff73",
+      "Title" : "Kitambo"
+    },
+    "-L5DITlbr9ys149YKhui" : {
+      "Content" : "It Is Located In Brazil",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/workdata-3071f.appspot.com/o/MAPICHA%2Fcropped-1246611992.jpg?alt=media&token=a2b0ee27-3744-4a61-aba1-299bdc7d5943",
+      "Title" : "Rio DEJANAEIRO"
+    },
+    "-L5DIjeV7G7Q1IWV-Ftr" : {
+      "Content" : "Commonly Abailable In ETHIOPIA",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/workdata-3071f.appspot.com/o/MAPICHA%2Fcropped876128686.jpg?alt=media&token=2fe448f0-8057-41a5-8d92-126aeeb7a8eb",
+      "Title" : "Arosto COFFE"
+    }
   }
 }
